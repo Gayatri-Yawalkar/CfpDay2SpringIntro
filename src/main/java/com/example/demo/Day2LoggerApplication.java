@@ -21,5 +21,7 @@ public class Day2LoggerApplication {
 		  empBean.setEid(101);
 		  empBean.setEname("Prakash"); 
 		  empBean.showEmployeeDetails();
+		
 	}
+
 }
